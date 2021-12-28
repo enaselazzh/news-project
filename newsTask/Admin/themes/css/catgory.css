@@ -1,0 +1,44 @@
+body{
+    background:white;
+}
+.mobile_logo_width {
+	width: 83px;
+	display: block!important;
+	margin-left: 20px;
+	padding-bottom: 10px;
+}
+.container {
+    width: 80%;
+}
+.container form h2, h1{
+    text-align: center;
+}
+.container form{
+    margin-top: 50px;
+}
+.card{
+    margin-bottom: 20px;
+}
+/* atrticles css */
+.img-fluid{
+    width: 70%;
+}
+.new{
+    margin-bottom: 8%;
+}
+.img-fixde{
+    width: 30%;
+}
+.table{
+    margin-top: 100px;
+}
+.add{
+    margin-bottom: 40px;
+}
+.des{
+    height: 150px;
+    overflow:hidden;
+}
+.des ::after{
+content: '...';
+}
